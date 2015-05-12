@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/accelerate_interpolator"
+    android:fromXDelta="100%p" android:toXDelta="0%p"
+    android:duration="500"
+    /><!-- From: file:/D:/android%20developer/Android%20projects/MyProjects/WC/WC_-master/app/src/main/res/anim/anim_back_tomain.xml -->

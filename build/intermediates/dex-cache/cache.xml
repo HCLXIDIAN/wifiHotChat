@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android developer\Android projects\MyProjects\WC\WC_-master\test\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\android developer\Android projects\MyProjects\WC\WC_-master\test\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-0072f8c0086d093ea4c45772d88d3eeb168c8ab2.jar" />
+    </item>
+    <item
+        jar="D:\android developer\SDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-00bc9b2be9a937725ad99828e88a75a48d82e2ba.jar" />
+    </item>
+    <item
+        jar="D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2ec620e7edabc3d5da5c209bb1935def62084056.jar" />
+    </item>
+    <item
+        jar="D:\android developer\Android projects\MyProjects\WC\WC_-master\test\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\android developer\Android projects\MyProjects\WC\WC_-master\test\build\intermediates\pre-dexed\debug\classes-9a76fe8804d499258fb1cfb8ec8cc766f60ee44f.jar" />
+    </item>
+    <item
+        jar="D:\android developer\Android projects\MyProjects\WC\WC_-master\test\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\android developer\Android projects\MyProjects\WC\WC_-master\test\build\intermediates\pre-dexed\debug\classes-e0fc187e655c8c7ef11bd3efec09a75577894621.jar" />
+    </item>
+    <item
+        jar="D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\pre-dexed\debug\classes-471d4a1a4c059f8068d5265495c7936e12db5609.jar" />
+    </item>
+    <item
+        jar="D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\pre-dexed\debug\classes-66b0df31037de7bda65737e525ef7b1fa06db369.jar" />
+    </item>
+
+</items>

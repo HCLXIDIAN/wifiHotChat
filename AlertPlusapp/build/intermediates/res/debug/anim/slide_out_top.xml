@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+     android:shareInterpolator="false">
+
+    <translate
+        android:duration="@integer/animation_default_duration"
+        android:fromXDelta="0%"
+        android:toXDelta="0%"
+        android:fromYDelta="0%"
+        android:toYDelta="-100%"/>
+</set><!-- From: file:/D:/android%20developer/Android%20projects/MyProjects/WC/WC_-master/dialogplus/src/main/res/anim/slide_out_top.xml --><!-- From: file:/D:/android%20developer/Android%20projects/MyProjects/WC/WC_-master/AlertPlusapp/build/intermediates/exploded-aar/WC_-master/dialogplus/unspecified/res/anim/slide_out_top.xml -->

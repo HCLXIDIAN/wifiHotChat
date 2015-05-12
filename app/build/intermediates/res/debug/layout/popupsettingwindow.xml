@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_open_wifi_hotspot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/text_setting_style"
+        />
+
+    <TextView
+        android:id="@+id/tv_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/text_setting_style"
+        />
+
+</LinearLayout><!-- From: file:/D:/android%20developer/Android%20projects/MyProjects/WC/WC_-master/app/src/main/res/layout/popupsettingwindow.xml -->

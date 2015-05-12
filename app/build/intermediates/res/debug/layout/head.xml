@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="fill_parent"
+	    android:layout_height="50dip"
+	    android:background="@color/blue_qq"
+	    >
+	    
+    	<Button
+	        android:id="@+id/homebutton"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dip"
+	        android:layout_centerVertical="true"
+	        android:visibility="gone"
+            android:text="返回"
+            android:textSize="@dimen/d_head_txt_set_size"
+            android:background="@null"
+            android:textColor="@color/white"
+
+	        />
+
+	    <TextView
+	        android:id="@+id/toptextView"
+	        android:layout_width="fill_parent"
+	        android:layout_height="40dip"
+	        android:gravity="center"
+            android:layout_centerInParent="true"
+	        android:textSize="21sp"
+	        android:textColor="@color/white"
+	        />
+	    
+	    <TextView
+	        android:id="@+id/tv_right_set"
+	        android:layout_width="50dip"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="7dip"
+	        android:layout_alignParentRight="true"
+	        android:layout_marginRight="10dip"
+	        android:textColor="@color/white"
+	        android:padding="5dip"
+
+            android:textSize="@dimen/d_head_txt_set_size"
+	        android:visibility="gone"
+	        />
+	</RelativeLayout><!-- From: file:/D:/android%20developer/Android%20projects/MyProjects/WC/WC_-master/app/src/main/res/layout/head.xml -->

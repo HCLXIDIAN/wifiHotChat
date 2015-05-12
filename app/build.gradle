@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+    compileOptions.encoding = "UTF-8"
+    defaultConfig {
+        applicationId "com.ty.winchat"
+        minSdkVersion 11
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard.cfg'
+        }
+    }
+}
+dependencies {
+    compile 'com.android.support:support-v4:22.1.1'
+    compile 'com.android.support:appcompat-v7:22.1.1'
+}
+/*
+tasks.withType(org.gradle.api.tasks.compile.JavaCompile) {
+    options.encoding = "UTF-8"
+}*/

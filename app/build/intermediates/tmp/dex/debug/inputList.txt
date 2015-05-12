@@ -1,0 +1,5 @@
+D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\classes\debug
+D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-00bc9b2be9a937725ad99828e88a75a48d82e2ba.jar
+D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2ec620e7edabc3d5da5c209bb1935def62084056.jar
+D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\pre-dexed\debug\classes-66b0df31037de7bda65737e525ef7b1fa06db369.jar
+D:\android developer\Android projects\MyProjects\WC\WC_-master\app\build\intermediates\pre-dexed\debug\classes-471d4a1a4c059f8068d5265495c7936e12db5609.jar
